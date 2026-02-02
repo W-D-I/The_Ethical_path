@@ -1,4 +1,5 @@
 # The Ethical path
+<img width="1283" height="719" alt="mainmenu" src="https://github.com/user-attachments/assets/5d1b714e-9fee-42ce-ae62-d910feaec120" />
 
 Navigate a series of complex scenarios in a modern workplace where every choice matters.
 Your decisions shape not only your career, but also the ethical consequences of your actions.
